@@ -84,3 +84,83 @@ A reliable storage solution provides sufficient capacity for games and multimedi
 The case offers efficient airflow and protects all internal components while maintaining a clean design.
 
 ---
+# 🖼 Project Gallery
+
+| CPU | GPU |
+|-----|-----|
+| ![](images/CPU.jpg) | ![](images/GPU.jpg) |
+
+| RAM | Motherboard |
+|-----|-------------|
+| ![](images/RAM.jpg) | ![](images/Motherboard.png) |
+
+| Hard Drive | Case |
+|------------|------|
+| ![](images/Hard-drive.jpg) | ![](images/Case.jpg) |
+
+---
+# 💻 Skills Demonstrated
+
+This project demonstrates the following skills:
+
+- Computer Hardware Knowledge
+- Technical Research
+- Component Comparison
+- Technical Documentation
+- Markdown Documentation
+- GitHub Repository Management
+- Engineering Decision Making
+- Technical Presentation
+
+---
+# 📁 Repository Structure
+
+```
+High-Performance-Gaming-PC-Design
+│
+├── images
+│   ├── CPU.jpg
+│   ├── GPU.jpg
+│   ├── RAM.jpg
+│   ├── Motherboard.png
+│   ├── Hard-drive.jpg
+│   ├── Case.jpg
+│   └── banner.png
+│
+├── report
+│   ├── Dream-Computer-System.pdf
+│   └── Dream-Computer-System.docx
+│
+├── README.md
+└── LICENSE
+```
+# 🚀 Future Improvements
+
+Future versions of this project may include:
+
+- SSD storage comparison
+- Performance benchmarking
+- Power consumption analysis
+- Cooling system optimization
+- Cost-performance evaluation
+- 3D PC configuration visualization
+
+---
+
+# 👨‍💻 Author
+
+**Abdelrahman Esmat Badawy Khalifa**
+
+📧 abdelrahman.esmat.badawy@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/abdelrahman-esmat-332045426
+
+💻 GitHub:
+https://github.com/abdelrahmanesmatbadawy
+
+---
+
+# 📜 License
+
+This project is licensed under the MIT License.
